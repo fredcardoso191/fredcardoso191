@@ -3,9 +3,8 @@
 ## About me
 #### I'm Fred!
 
-💻 I'm a student of Systems Analysis and Development (4th semester). <br>
+💻 I'm a student of Systems Analysis and Development (4th semester), currently learning Java and JavaScript. <br>
 💻 I'm a Front-end / Back-end Developer in training. <br>
-📤 I’m currently learning Java and JavaScript. <br>
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=LINK_GIT)](https://github.com/fredcardoso191)  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK_LINKEDIN)](https://www.linkedin.com/in/fred-recco-a903bb1a2/)
 
