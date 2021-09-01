@@ -9,7 +9,8 @@
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Linkedln-282C34?logo=linkedin&logoColor=156fcf" alt="LinkedIn logo" title="LinkedIn" height="22"/>
+  <a href="https://www.linkedin.com/in/fred-recco-a903bb1a2/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
 <br>
