@@ -1,9 +1,3 @@
-<p align="center">
-  📫 Contact: <a href='mailto:fredcardoso001@gmail.com'>fredcardoso001@gmail.com</a>
-</p>
-
-<br>
-
 <table align="center">
   <row>
     <td>
