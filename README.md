@@ -20,8 +20,3 @@
   <img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
   <img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"/>
 </div>
-<br>
-<div align="center">
-  <h3>Contact</h3>
-  <a href="https://www.linkedin.com/in/fredcarddoso/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
