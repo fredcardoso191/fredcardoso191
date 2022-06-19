@@ -1,51 +1,15 @@
+### About me
 <table>
   <row>
     <td>
-      <img height='172' src='https://github-readme-stats.vercel.app/api/top-langs/?username=fredcardoso191&layout=compact&theme=radical'>
-    </td>
-    <!--
-    <td>
-      <img height='172' src='https://github-readme-stats.vercel.app/api?username=fredcardoso191&show_icons=true&theme=radical'>
-    </td>
-    -->
-  </row>
-</table>
-<!--
-<table>
-  <row>
-    <td>
-      <img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
+      <img height='180em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=fredcardoso191&hide=html&layout=compact&theme=radical'>
+      <!--<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=fredcardoso191&hide=html&vue&theme=radical' alt='fredcardoso191'>-->
     </td>
     <td>
-      <img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
-    </td>
-    <td>
-      <img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-    </td>
-    <td>
-      <img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-    </td>
-    <td>
-      <img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-    </td>
-    <td>
-      <img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
-    </td>
-    <td>
-      <img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-    </td>
-    <td>
-      <img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"/>
-    </td>
-    <td>
-      <img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-plain.svg"/>
-    </td>
-    <td>
-      <img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg"/>
+      <img height='180em' src='https://github-readme-stats.vercel.app/api?username=fredcardoso191&show&icons=true&theme=radical'>
     </td>
   </row>
 </table>
--->
 
 ### My Links
 <table>
@@ -57,10 +21,10 @@
 </table>
 
 ### I'm Fred
-- Backend developer
+- Backend development student
 - Linux user
   - Fedora
   - Ubuntu
 - Agile
   - Scrum
-- DevOps
+  - DevOps
