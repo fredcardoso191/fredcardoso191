@@ -2,11 +2,10 @@
 <table>
   <row>
     <td>
-      <img height='180em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=fredcardoso191&hide=html&layout=compact&theme=radical'>
-      <!--<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=fredcardoso191&hide=html&vue&theme=radical' alt='fredcardoso191'>-->
+      <img height='180em' src='https://github-readme-stats.vercel.app/api?username=fredcardoso191&border_color=0d1117&bg_color=0d1117&title_color=c8d0d9&text_color=c8d0d9'>
     </td>
     <td>
-      <img height='180em' src='https://github-readme-stats.vercel.app/api?username=fredcardoso191&show&icons=true&theme=radical'>
+      <img height='180em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=fredcardoso191&hide=html&layout=compact&border_color=0d1117&bg_color=0d1117&title_color=c8d0d9&text_color=c8d0d9'>
     </td>
   </row>
 </table>
